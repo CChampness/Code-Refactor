@@ -80,6 +80,8 @@ p {
     background-color: #2589bd;
 }
 
+/* These rules take care of the three separate sets of rules
+that were used for the three benefit sections */
 .benefit-styles {
     margin-bottom: 32px;
     color: #ffffff;
@@ -96,6 +98,9 @@ p {
     max-width: 150px;
 }
 
+/* The next three rules condense the rules that were
+previously used for the links that are now in a nav
+block, but were perviously in a div ul section. */
 .nav-link {
     margin-bottom: 20px;
     padding: 50px;
