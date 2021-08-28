@@ -1,5 +1,5 @@
 # Code-Refactor
-This web page demonstrates code refactoring to improve efficiency and accessibility.  Originally there was a lot of repetition in the css code.  Duplicated code was consolidated.  HTML code was changed as necessary to allow refactoring.
+This web page demonstrates code refactoring to improve efficiency and accessibility.  Originally there was a lot of repetition in the css code.  Duplicated code was consolidated.  HTML code was changed as necessary to allow refactoring.  The page has also been tested and verified on a Revvl 4+ mobile device.
 ## Link to the published page on Github:
 https://cchampness.github.io/Code-Refactor/ 
 ## First, in the html file:
