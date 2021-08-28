@@ -1,5 +1,7 @@
 # Code-Refactor
-This web page exercise demonstrates code refactoring to improve efficiency and accessibility
+This web page demonstrates code refactoring to improve efficiency and accessibility.  Originally there was a lot of repetition in the css code.  Duplicated code was consolidated.  HTML code was changed as necessary to allow refactoring.
+## Link to the published page on Github:
+https://cchampness.github.io/Code-Refactor/ 
 ## First, in the html file:
 - Changed the div with class header to a header element
 - Inside the header, changed the div to a nav to make it have a semantic tag. 
@@ -14,3 +16,5 @@ This web page exercise demonstrates code refactoring to improve efficiency and a
 - Used justify-content space-between in the header and h1 to get good positioning of the h1 and nav.
 - Brightened up "seo" inside the Horiseon header to make it stand out becasuse it's a really col pun (I thought so anyway).
 - Removed redundant rules according to the way the classes were consolidated in the html code.
+## Here is a Screenshot of the website:
+![plot](refactor.gif)
